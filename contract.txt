@@ -1,0 +1,18 @@
+Contract for Catering Services
+The starting date of the contract is June 24, 2024.
+The ending date of the contract is June 24, 2025.
+The employer of the contract is HealthCare Solutions.
+The vendor of the contract is Gourmet Delights Catering.
+The department involved in the contract is the Events Department.
+The service provided by Gourmet Delights Catering is menu planning for corporate events.
+The service provided by Gourmet Delights Catering will prepare and serve food for corporate events.
+The service provided by Gourmet Delights Catering will set up and clean up after corporate events.
+The service provided by Gourmet Delights Catering will provide beverage service for corporate events.
+The payment details are that HealthCare Solutions will pay Gourmet Delights Catering $10,000 per event.
+The payment details are that Payments must be made within 10 days after each event.
+The terms and conditions are that Gourmet Delights Catering will keep the event details confidential.
+The terms and conditions are that Either party can terminate the contract with 30 days' written notice.
+The terms and conditions are that All food will be prepared according to health regulations.
+Signatures
+HealthCare Solutions
+Gourmet Delights Catering
