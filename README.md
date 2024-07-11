@@ -2,7 +2,7 @@
 
 ## Overview
 
-PDF-QA-RAG is an advanced question-answering system that leverages the Retrieval-Augmented Generation (RAG) architecture. It takes PDF documents as input, extracts information using BERT for embeddings, stores these embeddings using FAISS, and utilizes BERT-for-QA to generate accurate answers to user queries based on the content of the PDF.
+DocAssist AI is an advanced question-answering system that leverages the Retrieval-Augmented Generation (RAG) architecture. It takes PDF documents as input, extracts information using BERT for embeddings, stores these embeddings using FAISS, and utilizes BERT-for-QA to generate accurate answers to user queries based on the content of the PDF.
 
 ## Key Features
 ### PDF Processing:
